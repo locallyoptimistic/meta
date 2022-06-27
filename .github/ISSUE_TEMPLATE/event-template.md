@@ -11,6 +11,7 @@ Type of event:
 - [ ] Data Leadership
 - [ ] Tool Talk
 - [ ] AMAs
+- [ ] Panels
 
 Considerations for event: 
 * Is this panel diverse? Does it represent the LO Community? 
@@ -28,7 +29,10 @@ Before event:
 - [ ] Share in #virtual-events when booked, pointing people to Slack channel and/or form for invites
 - [ ] 1 week before bump event
 - [ ] 1 day before bump event again
+- [ ] 10 mins before bump event again (can schedule)
 
 After event:
 - [ ] Upload to YouTube
-- [ ] Share in Slack channel
+- [ ] Share in #announcements
+- [ ] Cross link in meetup Slack channel
+- [ ] Archive Slack channel
