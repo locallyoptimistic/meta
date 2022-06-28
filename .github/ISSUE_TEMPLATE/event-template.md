@@ -28,6 +28,7 @@ Before event:
 - [ ] Create discussion Slack channel
 - [ ] Share in #virtual-events when booked, pointing people to Slack channel and/or form for invites
 - [ ] 1 week before bump event
+- [ ] Send 2-5 questions to panelists a couple of days before
 - [ ] 1 day before bump event again
 - [ ] 10 mins before bump event again (can schedule)
 
