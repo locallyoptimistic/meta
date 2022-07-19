@@ -37,3 +37,16 @@ After event:
 - [ ] Share in #announcements
 - [ ] Cross link in meetup Slack channel
 - [ ] Archive Slack channel
+
+Messaging:
+:wave:  Hey y’all, I’m very excited to have our panel on Thursday. Here is the quick overview:
+* :00 we will open the zoom and the goal will be to kick off at the :03
+* I will record the session as we’re kicking off
+* We will start with brief introductions. I’ll briefly introduce myself + LO. I’ll remind folks about our Slack channel.
+* For your intros, please say your name, where you’re based out of, and your current role. Don’t worry about career path now.
+* After we do brief intros, I’d remind folks the panel, so here we’ll talk a bit more about your specific career path.
+* Sample questions
+* Remember: not everyone has to answer every question, so read the room and LISTEN to the other speakers to make sure you’re saying something new.
+* Then, we’ll take questions from the audience.
+* We will aim to end ON TIME at the :50. But, surely NLT the :55
+Thanks and looking forward to it!
