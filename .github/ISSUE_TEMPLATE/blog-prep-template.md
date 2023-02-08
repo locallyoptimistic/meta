@@ -27,6 +27,7 @@ assignees: ''
 - [ ] Agree on publication date 
 - [ ] Make sure author knows how to publish in WP 
 - [ ] Invite author to #announcements
+- [ ] Make sure publication email + tweet got sent successfully
 - [ ] Author announces post (admin can do if author prefers)
 - [ ] Remove author from #announcements
 
