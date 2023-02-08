@@ -8,7 +8,7 @@ assignees: ''
 ---
 # Checklists
 ### Early stage 
-- [ ] Create #authors-NAME channel in slack 
+- [ ] Create #authors-NAME channel in slack as a private channel
 - [ ] Invite author, admins, any other reviewers 
 - [ ] Explain overall publication process to author (messaging below)
 
